@@ -1,0 +1,7 @@
+etna==2.9.0
+pandas==1.5.3
+sklearn
+statsmodels==0.13.5
+matplotlib
+scipy==1.13.1
+tqdm==4.66.6
